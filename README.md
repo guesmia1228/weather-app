@@ -31,5 +31,3 @@ Then open it with your code editor, and open in your browser to see the result.
 
 <img width="453" alt="FW01" src="https://github.com/Friedrich482/Comprehensive-Weather-Fetch-App/assets/136119888/65ef530b-6e7c-4e49-8c0d-e83eaf7f0e70">&nbsp;&nbsp;
 <img width="449" alt="FW02" src="https://github.com/Friedrich482/Comprehensive-Weather-Fetch-App/assets/136119888/fea2c77c-703d-4f2b-a373-26b83d64a43a">  
-
-You can join using my mail address 📧 : <friedricht109@gmail.com>
